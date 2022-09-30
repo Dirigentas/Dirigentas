@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dirigentas
 - 🌱 I’m currently learning HTML, CSS, Python
 
+[![CodeWars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas/badges/large)
 
 <!---
 Dirigentas/Dirigentas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
