@@ -3,7 +3,7 @@
 
 ![Eco Status](https://www.codewars.com/users/Dirigentas/badges/small)
 
--   Code Wars profile - [Code Wars profile](https://www.codewars.com/users/Dirigentas)
+- [Code Wars profile](https://www.codewars.com/users/Dirigentas)
 
 <!---
 Dirigentas/Dirigentas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
