@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Dirigentas
 - 🌱 I’m currently learning HTML, CSS, Python
 
-[![CodeWars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas/badges/large)
-
 ![Eco Status](https://www.codewars.com/users/Dirigentas/badges/small)
 
 <!---
