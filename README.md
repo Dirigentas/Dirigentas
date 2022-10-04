@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dirigentas
 - 🌱 I’m currently learning HTML, CSS, Python
-- [Code Wars profile](https://www.codewars.com/users/Dirigentas)
-
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/small)](https://www.codewars.com/users/Dirigentas)
 
 
