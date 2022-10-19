@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dirigentas
-- 🌱 I’m currently learning HTML, CSS, Python
+- 🌱 I’m currently learning HTML, CSS, JS, Python
 
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas)
 
