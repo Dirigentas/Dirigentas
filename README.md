@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dirigentas
+- 👋 Hi, I’m Aras
 - 🌱 I’m currently learning HTML, CSS, JS, Python
 
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas)
