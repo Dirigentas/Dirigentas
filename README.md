@@ -3,7 +3,6 @@
 
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas)
 
-api/top-langs?username=Dirigentas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas)](https://github.com/Dirigentas/github-readme-stats)
 
