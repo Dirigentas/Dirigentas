@@ -4,7 +4,7 @@
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas)](https://github.com/Dirigentas/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas&layout=compact)](https://github.com/Dirigentas/github-readme-stats)
 
@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas)](https://github.com/Dirigentas/github-readme-stats)
 --->
