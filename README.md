@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aras
-- 🌱 I’m currently doing a six month IT course: learning HTML, CSS, JS, PHP
+- 🌱 I’m currently doing a six month programming course: learning HTML, CSS, JS, PHP, React, Laravel
 
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/small)](https://www.codewars.com/users/Dirigentas)
 
