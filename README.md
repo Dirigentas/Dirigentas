@@ -3,7 +3,7 @@
 
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/small)](https://www.codewars.com/users/Dirigentas)
 
-![AOC](https://img.shields.io/badge/Advent%20of%20Code%20Stars%20⭐-15-yellow)
+[![AOC](https://img.shields.io/badge/Advent%20of%20Code%20⭐-15-yellow)](https://adventofcode.com/)
 
 
 
