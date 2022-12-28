@@ -2,6 +2,7 @@
 - 🌱 I’m currently doing a six month IT course: learning HTML, CSS, JS, PHP
 
 [![Code Wars](https://www.codewars.com/users/Dirigentas/badges/large)](https://www.codewars.com/users/Dirigentas)
+![](https://img.shields.io/badge/stars%20⭐-15-yellow)
 
 
 
