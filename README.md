@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Aras
-- 🌱 I’m currently doing a six month programming course: learning HTML, CSS, JS, PHP, React, Laravel
-
-[![Code Wars](https://www.codewars.com/users/Dirigentas/badges/small)](https://www.codewars.com/users/Dirigentas)
-
+[![Code Wars](https://www.codewars.com/users/Dirigentas/badges/micro)](https://www.codewars.com/users/Dirigentas)
 [![AOC](https://img.shields.io/badge/Advent%20of%20Code%20⭐-15-yellow)](https://adventofcode.com/)
 
+---
 
-
+- 👋 Hi, I’m Aras
+- 🌱 I’m currently doing a six month programming course: learning HTML, CSS, JS, PHP, React, Laravel
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas&layout=compact)](https://github.com/Dirigentas/github-readme-stats)
 
