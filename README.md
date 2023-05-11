@@ -4,7 +4,7 @@
 ---
 
 - 👋 Hi, I’m Aras
-- 🌱 I’m currently doing a six month programming course: learning HTML, CSS, JS, PHP, React, Laravel
+- 🌱 Learning HTML, CSS, JS, PHP, React, Laravel
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas&layout=compact)](https://github.com/Dirigentas/github-readme-stats)
