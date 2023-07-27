@@ -1,6 +1,6 @@
-[![Code Wars](https://www.codewars.com/users/Dirigentas/badges/micro)](https://www.codewars.com/users/Dirigentas)
-[![LeetCode user Dirigentas](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FDirigentas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Dirigentas/)
-[![AOC](https://img.shields.io/badge/Advent%20of%20Code%202022%20⭐-15-yellow)](https://adventofcode.com/)
+[![Code Wars](https://www.codewars.com/users/Dirigentas/badges/micro)](https://www.codewars.com/users/Dirigentas) ________
+[![LeetCode user Dirigentas](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FDirigentas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Dirigentas/) ________
+[![AOC](https://img.shields.io/badge/Advent%20of%20Code%20%20⭐-15-yellow)](https://adventofcode.com/)
 
 ---
 
