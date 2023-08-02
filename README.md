@@ -5,7 +5,7 @@
 ---
 
 - 👋 Hi, I’m Aras
-- 🌱 Learning HTML, CSS, JS, PHP, React, Laravel
+- 🌱 Learning PHP + Laravel
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas&layout=compact)](https://github.com/Dirigentas/github-readme-stats)
