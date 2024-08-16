@@ -6,7 +6,7 @@
 ---
 
 - 👋 Hi, I’m Aras
-- 🌱 Learning PHP + Laravel
+- 🌱 Learning PHP & Java
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas&layout=compact)](https://github.com/Dirigentas/github-readme-stats)
