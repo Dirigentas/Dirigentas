@@ -6,7 +6,7 @@
 ---
 
 - 👋 Hi, I’m Aras
-- 🌱 Learning Java
+- 🌱 Java developer
 ---
 
 
